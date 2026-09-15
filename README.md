@@ -1,4 +1,4 @@
-# Bargo
+1# Bargo
 
 **Bargo** is a wrapper around Cargo that provides more features to make a more feature-complete build system. It's goal is to simplify complex workspaces and projects that already push Cargo's boundaries. It acts nearly like a drop-in Cargo binary; every argument Bargo supports is identical to its argument in Cargo (though it does not support every Cargo argument, so it's not a complete drop-in).
 
