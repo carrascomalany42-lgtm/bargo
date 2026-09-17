@@ -129,3 +129,4 @@ Just like Cargo, bargo has a `build` (or `b`) subcommand and `run` (or `r`) subc
 If `bargo b` is run with no crates specified, bargo will build any crates specified in `default-build` in the `workspace` table. If `default-build` is unspecified, bargo will build every crate in the workspace.
 
 If `bargo r` is run with no crates specified, bargo will run the crate specified by `default-run` in the `workspace` table. If `default-run` isn't set, bargo will error.
+.pacht
